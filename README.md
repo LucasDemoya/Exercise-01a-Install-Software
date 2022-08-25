@@ -7,9 +7,9 @@ Lucas De Moya
 166677
 
 ## My github username is:
-
+LucasDemoya
 
 ## My replit username is:
-BL-MSCH-C220-F22
+LucasDe218
 
 ## I have installed the software on my computer as a part of the exercise
